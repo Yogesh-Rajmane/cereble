@@ -7,6 +7,7 @@ class App extends Component
     return (
       <div >
           <p>Yogesh Rajmane</p>
+          <p>Nagesh Rajmane</p>
       </div>
     );    
   }
